@@ -2,27 +2,27 @@
 
 A modern React TypeScript application that provides an interactive interface for exploring Pokemon data using the PokeAPI.
 
-## 🚀 Features
+##  Features
 
-### ✅ List View
+### List View
 - **Search Functionality**: Real-time search by Pokemon name, ID, or type
 - **Sorting Options**: Sort by ID, Name, Height, Weight, or Base Experience
 - **Bidirectional Sorting**: Toggle between ascending and descending order
 - **Responsive Grid Layout**: Beautiful cards displaying Pokemon information
 
-### ✅ Gallery View
+### Gallery View
 - **Image Gallery**: Stunning Pokemon artwork display
 - **Type Filtering**: Filter Pokemon by one or multiple types
 - **Interactive Filters**: Toggle type filters with visual feedback
 - **Hover Effects**: Smooth animations and overlay information
 
-### ✅ Detail View
+### Detail View
 - **Comprehensive Information**: Detailed Pokemon stats, abilities, and description
 - **Navigation Controls**: Previous/Next buttons to cycle through Pokemon
 - **URL Routing**: Direct links to specific Pokemon details
 - **Responsive Design**: Optimized for desktop and mobile devices
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React 18** with **TypeScript**
 - **React Router** for routing
@@ -31,7 +31,7 @@ A modern React TypeScript application that provides an interactive interface for
 - **PokeAPI** for Pokemon data
 - **GitHub Pages** for deployment
 
-## 🎨 Design Features
+##  Design Features
 
 - Modern gradient backgrounds
 - Glass morphism effects
@@ -40,7 +40,7 @@ A modern React TypeScript application that provides an interactive interface for
 - Smooth animations and transitions
 - Loading states and error handling
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The application is fully responsive and works seamlessly on:
 - Desktop computers
@@ -48,7 +48,7 @@ The application is fully responsive and works seamlessly on:
 - Mobile phones
 - All major browsers
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (version 16 or higher)
@@ -74,7 +74,7 @@ npm start
 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## 🌐 Deployment
+##  Deployment
 
 The app is automatically deployed to GitHub Pages using GitHub Actions.
 
@@ -83,7 +83,7 @@ The app is automatically deployed to GitHub Pages using GitHub Actions.
 npm run deploy
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -109,27 +109,27 @@ src/
 └── App.tsx              # Main app component
 ```
 
-## 🎯 Assignment Requirements Fulfilled
+##  Assignment Requirements Fulfilled
 
-### ✅ List View
+###  List View
 - [x] Search bar that filters as you type
 - [x] Sort by multiple properties (ID, Name, Height, Weight, Experience)
 - [x] Ascending and descending order for all sort options
 - [x] Displays relevant Pokemon data from API
 
-### ✅ Gallery View
+###  Gallery View
 - [x] Displays Pokemon artwork/images
 - [x] Filter by Pokemon types (18+ type filters)
 - [x] Multiple filter selection capability
 - [x] Visual feedback for active filters
 
-### ✅ Detail View
+###  Detail View
 - [x] Accessible from both List and Gallery views
 - [x] Displays comprehensive Pokemon details
 - [x] Previous/Next navigation buttons
 - [x] Specific URL routes for each Pokemon
 
-### ✅ Technical Requirements
+###  Technical Requirements
 - [x] React with TypeScript
 - [x] React Router for routing
 - [x] Axios for API calls
@@ -137,7 +137,7 @@ src/
 - [x] Responsive design
 - [x] Error handling and loading states
 
-## 🔧 Features Beyond Requirements
+##  Features Beyond Requirements
 
 - **Loading States**: Elegant spinners and loading indicators
 - **Error Handling**: Graceful error handling with user-friendly messages
@@ -147,7 +147,7 @@ src/
 - **Type Safety**: Comprehensive TypeScript interfaces
 - **Modern UI/UX**: Glass morphism, gradients, and smooth animations
 
-## 📊 Pokemon Data
+##  Pokemon Data
 
 The application uses the [PokeAPI](https://pokeapi.co/) to fetch:
 - Pokemon basic information (name, ID, types)
@@ -156,11 +156,11 @@ The application uses the [PokeAPI](https://pokeapi.co/) to fetch:
 - High-quality artwork and sprites
 - Species information and descriptions
 
-## 🎥 Demo
+##  Demo
 
 [View Live Demo](https://YOUR-USERNAME.github.io/mp2)
 
-## 👨‍💻 Developer
+##  Developer
 
 Created for CS 409 Web Programming Assignment MP2
 University of Illinois at Urbana-Champaign
